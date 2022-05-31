@@ -45,10 +45,8 @@ async def start(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(
-                        "🔗 Support Group", url="https://t.me/+2zdQQL9y8BplM2Vl"
-                    ),
-                    InlineKeyboardButton("Project Channel 👨🏻‍💻", url="https://t.me/+Ak47fj5R6E03ZmE1"),
+                    InlineKeyboardButton("🔗 Support Group", url="https://t.me/+2zdQQL9y8BplM2Vl"),
+                    InlineKeyboardButton("Updates Channel 🔔", url="https://t.me/+Ak47fj5R6E03ZmE1"),
                 ],
                 [InlineKeyboardButton("🧑‍💻 Developer", url="https://t.me/hellodarklord")],
             ]
