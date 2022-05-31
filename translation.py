@@ -1,7 +1,10 @@
 class Translation(object):
     START_TEXT = """Hello 👋 {}
+
 I'm URL Uploader x Bot
-You can upload HTTP/HTTPS direct link,Using this bot.
+
+You can upload HTTP/HTTPS direct link, Using this bot.
+
 /help for more details....
      
 🤖 Maintained By: @hellodarklord"""
